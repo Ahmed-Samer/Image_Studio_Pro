@@ -1,0 +1,16 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+
+# PyInstaller build folders (عشان ميرفعش ملفات البناء المؤقتة)
+build/
+dist/
+*.spec
+
+# User Data (عشان ميرفعش الهستوري بتاعك انت)
+history.json
+
+# Environment
+venv/
+.env
+.vscode/
